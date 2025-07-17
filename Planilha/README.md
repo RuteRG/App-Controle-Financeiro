@@ -1,14 +1,9 @@
-\## 📊 Planilha de Controle Financeiro
+## 📊 Planilha de Controle Financeiro de Investimento Imobiliário
 
+Este projeto é um simulador de investimentos focado em Fundos Imobiliários, inspirado na estrutura do Santander.
 
-
-Este diretório contém arquivos relacionados ao controle de investimentos em fundos imobiliários.
-
-
-
-\## 📄 Arquivos
-
-
-
-\- \[arquivo.txt](https://excel.cloud.microsoft/open/onedrive/?docId=D2910D0E3DFFD63C%21seb2ed44e974946b8921892d983867272\&driveId=D2910D0E3DFFD63C.txt)
+| 📂 Planilha Disponível                             | 🔗 Link                              
+|---------------------------------------------------|-----------------------------------------------|
+|Investimentos FII |[Planilha de Investimentos](https://1drv.ms/x/c/D2910D0E3DFFD63C/AU7ULutJl7hGkhiS2YOGcnI?e=jfrZ8w) |
+ 
 
